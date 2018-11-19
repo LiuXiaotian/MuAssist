@@ -17,5 +17,6 @@ Example:
 MuMonitor.exe mu@163.com muPassword 30
 
 Important:
+Dot Net Framework 4.0 required.
 It only work with monitor is not locked.
 不能锁屏使用！！！
