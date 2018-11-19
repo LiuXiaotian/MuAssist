@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MuMonitor/obj/Debug/MuMonitor.pdb
+/MuMonitor/obj/Debug/MuMonitor.exe
+/MuMonitor/obj/Debug/MuMonitor.csprojAssemblyReference.cache
+/MuMonitor/obj/Debug/MuMonitor.csproj.FileListAbsolute.txt
+/MuMonitor/obj/Debug/MuMonitor.csproj.CoreCompileInputs.cache
+/MuMonitor/obj/Debug
+/MuMonitor/bin/Debug/MuMonitor.pdb
+/MuMonitor/bin/Debug/MuMonitor.exe
+/MuMonitor/bin/Debug
+/MuMonitor/.vs/MuMonitor/v15/Server/sqlite3/storage.ide-wal
+/MuMonitor/.vs/MuMonitor/v15/Server/sqlite3/storage.ide-shm
+/MuMonitor/.vs/MuMonitor/v15/Server/sqlite3/storage.ide
+/MuMonitor/.vs/MuMonitor/v15/Server/sqlite3/db.lock
+/MuMonitor/.vs/MuMonitor/v15/Server/sqlite3
+/MuMonitor/.vs/MuMonitor/v15/.suo
+/MuMonitor/.vs/MuMonitor/v15
