@@ -96,7 +96,7 @@ namespace MuMonitor
 
         static void PrintUsage()
         {
-            Console.WriteLine("Usage: MuMonitor.exe EamilAddress EmailPassword [Interval In Minutes]");
+            Console.WriteLine("Usage: MuMonitor.exe EmailAddress EmailPassword [Interval In Minutes]");
             Console.WriteLine("Example: MuMonitor.exe mu@163.com muPassword 30");
             Console.WriteLine();
         }
